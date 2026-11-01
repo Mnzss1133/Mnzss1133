@@ -1,10 +1,10 @@
 ### Hi, i am João Pedro 👋
 
-<p align="left">Objetivo:<br><br>Aprofundar meus conhecimentos na area de tecnologia, mais especificamente na 
-parte de desenvolvimento web e Inteligencia Artificial 
+<p align="left">Objetivo:<br><br>Aprofundar meus conhecimentos na area de Dados, mais especificamente na 
+parte de Machine Learning.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mnzss1133&show_icons=true&theme=radical)
+
 
 ### Tecnologias que estou aprendendo:
 
